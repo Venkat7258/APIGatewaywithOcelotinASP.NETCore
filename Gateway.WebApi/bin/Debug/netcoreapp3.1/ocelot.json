@@ -1,0 +1,83 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 16302
+        }
+      ],
+      "UpstreamPathTemplate": "/api/gateway/Auth/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ],
+      "SwaggerKey": "auth"
+    },
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44222
+        }
+      ],
+      "UpstreamPathTemplate": "/api/gateway/users/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ],
+      "SwaggerKey": "users",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 2106
+        }
+      ],
+      "UpstreamPathTemplate": "/api/gateway/mdusers/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ],
+      "SwaggerKey": "mdusers",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    }
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "auth",
+      "Config": [
+        {
+          "Name": "Auth API",
+          "Version": "v1",
+          "Url": "http://localhost:16302/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "users",
+      "Config": [
+        {
+          "Name": "Users API",
+          "Version": "v1",
+          "Url": "http://localhost:44222/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "mdusers",
+      "Config": [
+        {
+          "Name": "Mongodb Users API",
+          "Version": "v1",
+          "Url": "http://localhost:2106/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ]
+}

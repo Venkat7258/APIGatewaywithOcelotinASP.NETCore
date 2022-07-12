@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+gElIm+ougwQt5Ny8VoP94vxeg41jHqcQ6SrF1er6huJRqGnauUE7UCeRe3b+1dMARJRSm8/fQr3Vx7QePIBsw==",
+  "success": true,
+  "projectFilePath": "D:\\Microservices\\iReadyMicroservice\\DomainModel\\DomainModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin 2\\.nuget\\packages\\mongodb.bson\\2.16.1\\mongodb.bson.2.16.1.nupkg.sha512",
+    "C:\\Users\\Admin 2\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

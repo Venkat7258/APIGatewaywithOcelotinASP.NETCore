@@ -1,0 +1,10 @@
+D:\Microservices\iReadyMicroservice\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+D:\Microservices\iReadyMicroservice\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+D:\Microservices\iReadyMicroservice\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+D:\Microservices\iReadyMicroservice\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+D:\Microservices\iReadyMicroservice\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\iReadyMicroservice\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+D:\Microservices\iReadyMicroservice\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+D:\Microservices\iReadyMicroservice\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+D:\Microservices\iReadyMicroservice\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+D:\Microservices\iReadyMicroservice\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb

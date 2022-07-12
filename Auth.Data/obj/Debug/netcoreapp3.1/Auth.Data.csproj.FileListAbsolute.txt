@@ -1,0 +1,13 @@
+D:\Microservices\iReadyMicroservice\Auth.Data\bin\Debug\netcoreapp3.1\Auth.Data.deps.json
+D:\Microservices\iReadyMicroservice\Auth.Data\bin\Debug\netcoreapp3.1\Auth.Data.dll
+D:\Microservices\iReadyMicroservice\Auth.Data\bin\Debug\netcoreapp3.1\Auth.Data.pdb
+D:\Microservices\iReadyMicroservice\Auth.Data\obj\Debug\netcoreapp3.1\Auth.Data.csproj.AssemblyReference.cache
+D:\Microservices\iReadyMicroservice\Auth.Data\obj\Debug\netcoreapp3.1\Auth.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\iReadyMicroservice\Auth.Data\obj\Debug\netcoreapp3.1\Auth.Data.AssemblyInfoInputs.cache
+D:\Microservices\iReadyMicroservice\Auth.Data\obj\Debug\netcoreapp3.1\Auth.Data.AssemblyInfo.cs
+D:\Microservices\iReadyMicroservice\Auth.Data\obj\Debug\netcoreapp3.1\Auth.Data.csproj.CoreCompileInputs.cache
+D:\Microservices\iReadyMicroservice\Auth.Data\obj\Debug\netcoreapp3.1\Auth.Data.dll
+D:\Microservices\iReadyMicroservice\Auth.Data\obj\Debug\netcoreapp3.1\Auth.Data.pdb
+D:\Microservices\iReadyMicroservice\Auth.Data\bin\Debug\netcoreapp3.1\Auth.Data.runtimeconfig.json
+D:\Microservices\iReadyMicroservice\Auth.Data\bin\Debug\netcoreapp3.1\Auth.Data.runtimeconfig.dev.json
+D:\Microservices\iReadyMicroservice\Auth.Data\obj\Debug\netcoreapp3.1\Auth.Data.genruntimeconfig.cache
